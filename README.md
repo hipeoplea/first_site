@@ -1,1 +1,1 @@
-# first_site
+learning html and css for future projects
